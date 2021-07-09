@@ -20,7 +20,7 @@ How to pull knowledge fro mthe smartest people around you
 ## What Having a "Growth Mindeset" Actually Means
 * Everyone actually has a mixture of fixed and growth mindes, which continually evoloves with experience.
 * Just espouse a growth mindset, and good things will happend. No.
-	* One reason iw we all have our own fixed-mindset triggers. When we face challenges, receive criticism, or fare poorly compared with other, we become insecure or defensive, too, can be full of fixed-mindset triggers.
+	* One reason is we all have our own fixed-mindset triggers. When we face challenges, receive criticism, or fare poorly compared with other, we become insecure or defensive, too, can be full of fixed-mindset triggers.
 
 ## To Cope with Stress, Try Learning Something New 
 1. Reframing stressful work challenges in your mind.
@@ -28,7 +28,7 @@ How to pull knowledge fro mthe smartest people around you
 3. craft learning activities as a new form of "work break"
 
 ## Learning Is a Learned Behavior: Here's How to Get Better at It
-People who closely track their thinking will outscore others who have sky-high IQ levels whtne it comes to learning something new.
+People who closely track their thinking will outscore others who have sky-high IQ levels when it comes to learning something new.
 
 * Organize your goals
 	* Effective learning often boils down to project management.
