@@ -6,21 +6,21 @@
 * vulnerability
 
 ## Make Yourself an Expert
-How to pull knowledge fro mthe smartest people around you
+How to pull knowledge from the smartest people around you
 * Deep smarts
 	* skilled ways of thinking
 	* make decisions
-	* behave that lead to sucess again and again
+	* behave that lead to success again and again
 * OPPTY
 	* observation: shadowing an expert and systematically analyzing what he or she does
 	* practice
 	* partnering and joint  problem solving
 	* take responsibility
 
-## What Having a "Growth Mindeset" Actually Means
-* Everyone actually has a mixture of fixed and growth mindes, which continually evoloves with experience.
-* Just espouse a growth mindset, and good things will happend. No.
-	* One reason is we all have our own fixed-mindset triggers. When we face challenges, receive criticism, or fare poorly compared with other, we become insecure or defensive, too, can be full of fixed-mindset triggers.
+## What Having a "Growth Mindset" Actually Means
+* Everyone actually has a mixture of fixed and growth mindset, which continually evolves with experience.
+* Just espouse a growth mindset, and good things will happen. No.
+	* One reason is we all have our own fixed-mindset triggers. When we face challenges, receive criticism, or fare poorly compared with others, we become insecure or defensive, too, can be full of fixed-mindset triggers.
 
 ## To Cope with Stress, Try Learning Something New 
 1. Reframing stressful work challenges in your mind.
@@ -32,7 +32,7 @@ People who closely track their thinking will outscore others who have sky-high I
 
 * Organize your goals
 	* Effective learning often boils down to project management.
-	* By setting targes, people can manage their feelings more eaily and achieve progress with their learning.
+	* By setting targets, people can manage their feelings more easily and achieve progress with their learning.
 * Think about thinking
 	* Metacognition
 * Reflect on your learning
@@ -52,14 +52,14 @@ People who closely track their thinking will outscore others who have sky-high I
 * Challenge yourself to teach the skill to others
 * Be patient
 
-## How to Move from Self-Awareness to Self-Improvemrnt
+## How to Move from Self-Awareness to Self-Improvement
 
 * self-management
 	* process step
 		1. be present
 		2. be self-aware
-		3. identify a range of behavioral chocies
-		4. intentionally choose beahviors that are believed to be the most productive
+		3. identify a range of behavioral choices
+		4. intentionally choose behaviors that are believed to be the most productive
 	* why is self-management so hard? 
 		* The most productive behaviors are often not aligned with our habits and preferences. (if there were, we wound not need to manage ourselves)
 
@@ -68,16 +68,16 @@ People who closely track their thinking will outscore others who have sky-high I
 	* https://en.wikipedia.org/wiki/Double-loop_learning
 * defensive reasoning
 	* avoid embarrassment or thread, feeling vulnerable or incompentent 
-* expoused theories vs theories-in-use
+* espoused theories vs theories-in-use
 
-* Change has to start at the top because otherwise defensive senior managers are liekly to disown any transformantion in reasoning patterns comming from below.
+* Change has to start at the top because otherwise defensive senior managers are likely to disown any transformation in reasoning patterns coming from below.
 
 ## How to Teach Employees Skills They Don't know They Lack
 * Get unconscious incompetence on the learning agenda.
-* Here trainser should make sure she focuses on not just the 10 misses but also any correct answers that she can admit were lucky gusses.
+* Here the trainer should make sure she focuses on not just the 10 misses but also any correct answers that she can admit were lucky guesses.
 * Saying "I don't know" is always better than pretending to know something
 
-## The Best Leaders Are Greta Teachers
+## The Best Leaders Are Great Teachers
 * Lessons
 	* professionalism
 	* points of craft
